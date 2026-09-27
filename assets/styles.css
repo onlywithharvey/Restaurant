@@ -1130,6 +1130,7 @@ main {
 
     .aline {
         margin-top: 30px;
+        width: calc(100vw - 30px);
     }
 
     /*About Section*/
