@@ -1143,6 +1143,10 @@ main {
         gap: 20px;
     }
 
+    #about .aline {
+        width: calc(100vw - 30px);
+    }
+
     .about-text {
         flex: 1;
         width: 100%;
